@@ -7,3 +7,4 @@ build
 .build*
 amd-ucodegen
 CPUMicrocodes
+*.deb
